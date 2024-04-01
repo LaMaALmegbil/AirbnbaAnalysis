@@ -1,6 +1,4 @@
-
-
-
+These data show our analyzed of the Airbnb_Toronto_Feb_2024.
 
 **Selected dataset**
 
